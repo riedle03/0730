@@ -1,0 +1,6 @@
+{
+  "name": "MBTI 학습 유형 진단 검사",
+  "description": "nes.css를 활용하여 8비트 게임 스타일로 제작된 학습 유형 진단 앱입니다. 간단한 질문과 답변을 통해 MBTI 기반의 학습 유형을 분석하고 결과를 보여줍니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
